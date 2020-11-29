@@ -1,3 +1,1 @@
-install.packages("readr")
-install.packages("Seurat")
-
+install.packages(c("readr","Seurat"))
